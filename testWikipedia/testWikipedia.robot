@@ -5,7 +5,7 @@ Test Teardown    Close Browser
 Resource    resource.robot
 
 *** Variables ***
-${project_path}    /Users/eskam/PycharmProjects/robotFramework/RobotFrameworkTests
+${project_path}    /Users/eskam/PycharmProjects/robotFramework/RobotFrameworkTest/testWikipedia
 ${error_message}    Podany login lub hasło są nieprawidłowe. Spróbuj jeszcze raz.
 
 *** Keywords ***
